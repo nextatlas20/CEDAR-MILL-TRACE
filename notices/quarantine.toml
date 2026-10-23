@@ -1,0 +1,61 @@
+snapshot_date = "2074-09-18"
+lot_count = 4
+total_units = 230
+
+[[allergens]]
+name = "peanut"
+lot_count = 2
+units = 110
+
+[[allergens]]
+name = "sesame"
+lot_count = 2
+units = 120
+
+[[lots]]
+sequence = 1
+lot_id = "LT-B205"
+product = "Hearth Roll"
+line = "Line East"
+allergen = "peanut"
+ppm = 4
+test_id = "AT-003"
+tested_on = "2074-09-16"
+action_due = "2074-09-17"
+units = 80
+
+[[lots]]
+sequence = 2
+lot_id = "LT-G730"
+product = "Country Roll"
+line = "Line West"
+allergen = "peanut"
+ppm = 3
+test_id = "AT-007"
+tested_on = "2074-09-18"
+action_due = "2074-09-19"
+units = 30
+
+[[lots]]
+sequence = 3
+lot_id = "LT-F625"
+product = "Tea Bread"
+line = "Line North"
+allergen = "sesame"
+ppm = 12
+test_id = "AT-006"
+tested_on = "2074-09-14"
+action_due = "2074-09-17"
+units = 55
+
+[[lots]]
+sequence = 4
+lot_id = "LT-D415"
+product = "Market Bun"
+line = "Line South"
+allergen = "sesame"
+ppm = 5
+test_id = "AT-004"
+tested_on = "2074-09-15"
+action_due = "2074-09-18"
+units = 65
