@@ -1,0 +1,13 @@
+lot_id,product,line,units,baked_on,status,revision
+LT-A100,Seeded Rye,Line North,120,2074-09-02,available,1
+LT-B205,Hearth Roll,Line East,80,2074-09-06,available,1
+LT-C310,Harvest Loaf,Line West,90,2074-09-07,available,1
+LT-D415,Market Bun,Line South,65,2074-09-09,available,2
+LT-E520,Pan Loaf,Line East,40,2074-09-10,available,1
+LT-F625,Tea Bread,Line North,55,2074-09-11,available,1
+LT-G730,Country Roll,Line West,30,2074-09-12,available,1
+LT-A100, Seeded Rye Reserve , Line North ,110,2074-09-03,available,2
+LT-C310,Harvest Loaf,Line West,90,2074-09-07,released,2
+LT-D415,Market Bun,Line South,70,2074-09-09,available,1
+LT-Z999,Broken Row,Line East,09,2074-09-13,available,1
+BAD-ID,Discard Me,Line East,20,2074-09-13,available,1
